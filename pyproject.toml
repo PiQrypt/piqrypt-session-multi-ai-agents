@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "piqrypt-session"
+name = "piqrypt-session-multi-ai-agents"
 version = "1.0.0"
 description = "Multi-agent cryptographic session for PiQrypt — co-signed A2A handshakes between AI agents"
 readme = "README.md"
