@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "piqrypt-session"
+version = "1.0.0"
+description = "Multi-agent cryptographic session for PiQrypt — co-signed A2A handshakes between AI agents"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "PiQrypt Contributors", email = "contact@piqrypt.org"}
+]
+requires-python = ">=3.9"
+keywords = [
+    "cryptography", "ai-agents", "multi-agent", "a2a",
+    "aiss", "verifiable-memory", "co-signature", "audit"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Security :: Cryptography",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "piqrypt>=1.5.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/piqrypt/piqrypt-session-multi-ai-agents"
+Documentation = "https://github.com/piqrypt/piqrypt-session#readme"
+Repository = "https://github.com/piqrypt/piqrypt-session-multi-ai-agents"
+"Bug Tracker" = "https://github.com/piqrypt/piqrypt/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["piqrypt_session*"]
