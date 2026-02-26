@@ -188,9 +188,9 @@ piqrypt verify trading-session-audit.json
 ## Links
 
 - **PiQrypt core:** [github.com/piqrypt/piqrypt](https://github.com/piqrypt/piqrypt)
-- **LangChain bridge:** [piqrypt-langchain](https://github.com/piqrypt/piqrypt-langchain)
-- **AutoGen bridge:** [piqrypt-autogen](https://github.com/piqrypt/piqrypt-autogen)
-- **CrewAI bridge:** [piqrypt-crewai](https://github.com/piqrypt/piqrypt-crewai)
+- **LangChain bridge:** [piqrypt-langchain-integration](https://github.com/piqrypt/piqrypt-langchain-integration)
+- **AutoGen bridge:** [piqrypt-autogen-integration](https://github.com/piqrypt/piqrypt-autogen-integration)
+- **CrewAI bridge:** [piqrypt-crewai-integration](https://github.com/piqrypt/piqrypt-crewai-integration)
 - **OpenClaw bridge:** [piqrypt-openclaw](https://github.com/piqrypt/piqrypt-openclaw)
 - **Issues:** piqrypt@gmail.com
 
