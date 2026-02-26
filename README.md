@@ -2,7 +2,7 @@
 
 **Multi-agent cryptographic session for PiQrypt.**
 
-[![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain/)
+[![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain-integration/)
 [![Downloads](https://img.shields.io/pypi/dm/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PiQrypt](https://img.shields.io/badge/powered%20by-PiQrypt-blue)](https://github.com/piqrypt/piqrypt)
