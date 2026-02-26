@@ -191,7 +191,7 @@ piqrypt verify trading-session-audit.json
 - **LangChain bridge:** [piqrypt-langchain-integration](https://github.com/piqrypt/piqrypt-langchain-integration)
 - **AutoGen bridge:** [piqrypt-autogen-integration](https://github.com/piqrypt/piqrypt-autogen-integration)
 - **CrewAI bridge:** [piqrypt-crewai-integration](https://github.com/piqrypt/piqrypt-crewai-integration)
-- **OpenClaw bridge:** [piqrypt-openclaw](https://github.com/piqrypt/piqrypt-openclaw)
+- **OpenClaw bridge:** [piqrypt-openclaw](https://github.com/piqrypt/piqrypt-openclaw-integration)
 - **Issues:** piqrypt@gmail.com
 
 ---
