@@ -374,7 +374,7 @@ No AI agent framework today provides:
 - Post-quantum readiness for long-term legal validity
 
 **PiQrypt is the first implementation of Verifiable AI Agent Memory.**  
-Built on [AISS v1.1](https://github.com/piqrypt/piqrypt) — Agent Identity & Signature Standard.
+Built on [AISS v2.0](https://aiss-standard.org) — Agent Identity & Signature Standard.
 
 ---
 

@@ -9,7 +9,7 @@ description = "Multi-agent cryptographic session for PiQrypt — co-signed A2A h
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "PiQrypt Contributors", email = "contact@piqrypt.org"}
+    {name = "PiQrypt Contributors", email = "contact@piqrypt.com"}
 ]
 requires-python = ">=3.9"
 keywords = [
@@ -25,7 +25,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 dependencies = [
-    "piqrypt>=1.5.1",
+    "piqrypt>=1.8.6",
 ]
 
 [project.urls]

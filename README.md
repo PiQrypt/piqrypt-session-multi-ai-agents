@@ -1,5 +1,7 @@
 # piqrypt-session
 
+> Standard: [AISS v2.0](https://aiss-standard.org) · Full stack: [piqrypt.com](https://piqrypt.com)
+
 **Multi-agent cryptographic session for PiQrypt.**
 
 [![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain-integration/)
